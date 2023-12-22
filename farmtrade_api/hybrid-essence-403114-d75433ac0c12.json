@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hybrid-essence-403114",
+  "private_key_id": "d75433ac0c12de0894d253aed40a2be6316f582b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCttI3mGG7bfWnB\nTrDfgGsbrH+V76wre5j6DiKIBZQ+P1MaZ3hIb9mfr+mdNc5aouYAAZxLyA/0MHfx\nzBQsl4vFkNGZuNanrswC/h75YBfFrhnMLw3FcQiV9IyUoY9Tjsy0Uq0J0ZrxTnxJ\nLB+zpKpsXnn4OWLrn7Tflxo0yISLhdXln5dKZJkqJY39qjDkF6UXSK2vtTc8fKHl\nkxLzLF2L2yMhNVY3UmCc1nZxKOkOajOAkLThSrox+nWxyUyMCWbHkBy0PeQ0S/sz\nKchH2eEvz0GvYawQETxD9ssTxnrY4jA2MQcqN/yNfpK/8sGQ0QCYhFiXl24cRrs/\nOwDPMD71AgMBAAECggEAEJ80reY8I3I4jrgoOjboaO1EhzU4US/iV1lHaiM4iI1Y\nNzBcBPh5B2wWq4XE0Y0Be9Irod/K0QfbTm7EJnE4/YaKXA6hMcoK+SVWku/kTnUG\nwHBnPbO/idPtKOLd23XQdlfr+YLOdBVZ1MmtXewdp8GRo9Rf+CKf9P5ZUmA2uMAF\nEwjY2Ye6Ed0h8IFvazD/82TgLzPy0wc+wymFuL3RWvDqRHVoGjUdJgWWevYM2Zwq\n0TjVHsjXcVrx5KTKKQWIPqpuhoBAOHyXIUN2eYMV0PdqNrv+IXrt+iC1uqKcFLYM\nM40PJ8hEt+x/BwqBiv1Ef1tRMlYenmZVb7OgCN1hYQKBgQDllzwUzTqLnpwMzgVa\no/Br0hkHYvsa73Ia1p8JwLGPdH8pwf7i7/ExqdswnuSV2HXOvSg9I6t91kq3gTQh\nkYwowK6mJC4dVunHbXXfSf9EifC2MmzjPlz3uCD5dXxEbiI4v34pusMiz3nYOOgO\n4PFUU2kCwaq8ZTM1AFBSG1+3YQKBgQDBr6idUtwz6c4xwKqV6UTDI1T/cJfcRhlD\nKpPdq8c/v1E6yGl8Cl+rLtYQaj41plB4A9kzsnq43XD4XdiPvj1OLxpRvAuf2bUL\nSzcHQFlo2pnTQYMXukfRWLBXMQ8VnUArUq8KLpBlBs3bUMybAsoRn7orHsRvpS2Y\nbh+66ya0FQKBgE1NWGtgll/ALaaaD29vV1nWSZsVFpsBGBg1PyMXgDFe9hnnOZzL\nURh5qlV6ilhxo2jSg6PiSLF733hdxmGvEdP+3E8QS36RbvE4x8FAtvQqxaNy4vq4\nWrEFjASyK/8WXethfmcqfN1RoiLNNkUcM+VCmE7XSldYc59a1bBvixDBAoGBAKhU\nPqmEAuaHM3Gf7WFeGymwwkVCGGkS7w+lqF7F1OO9JR5+YNaxuVVv3hDkFO7RfSvg\nxFseqXOS2ISyIu1CO8uAOlKAqGWjcqm/E7MUpN/w5DFqxUDQ32u8tX0BoQd64/MC\n6CdkMo/qquwJO9kYQn+wnr6s/bG+D3NjeeYcSkXFAoGBAJGZC36zNBV95NbPkkVj\n7w5D1QNjpCMo/t3n+AAZzma7nN+bZZ+lDhauJdGz/II0jz3gRQJXksN0emqmA/eS\nhedScZXPgKRXUmDg5U4WQZUx/zLW55zjN9Kn2Ylf9gbFrOljPHcHo+vZhcbHd2xB\njkfyPR8mnNqGx7ic2kAgVtH2\n-----END PRIVATE KEY-----\n",
+  "client_email": "django-admin-upload-storage@hybrid-essence-403114.iam.gserviceaccount.com",
+  "client_id": "105670402077076696785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/django-admin-upload-storage%40hybrid-essence-403114.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
